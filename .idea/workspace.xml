@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0621860-8be0-4a3d-b24b-c6ccd405d941" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/../MusicPlayer/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Service.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="556">
+              <caret line="74" column="10" lean-forward="false" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MusicSheet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/data/MusicSheet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+              <folding>
+                <element signature="e#1393#1394#0" expanded="true" />
+                <element signature="e#1416#1417#0" expanded="true" />
+                <element signature="e#1511#1512#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MusicSheetAndFilesUploader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/sokect/MusicSheetAndFilesUploader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#5151#5167#0" expanded="true" />
+                <element signature="e#5581#5597#0" expanded="true" />
+                <element signature="e#5711#5727#0" expanded="true" />
+                <element signature="e#6674#6682#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MusicSheetAndFilesUploader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/Httpconnection/MusicSheetAndFilesUploader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5">
+              <caret line="218" column="22" lean-forward="false" selection-start-line="218" selection-start-column="22" selection-end-line="218" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SokectService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/service/SokectService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#607#614#0" expanded="true" />
+                <element signature="e#2229#2241#0" expanded="true" />
+                <element signature="e#2344#2356#0" expanded="true" />
+                <element signature="e#2750#2765#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MusicSheetService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/service/MusicSheetService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
+                <element signature="e#1114#1121#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MusicSheetDaoImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/MusicSheetDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+              <folding>
+                <element signature="e#2649#2661#0" expanded="true" />
+                <marker date="1511948356966" expanded="true" signature="511:558" ph=" INSERT statement (MUSICSHEET)" />
+                <marker date="1511948356966" expanded="true" signature="1317:1350" ph=" DELETE statement (MUSICSHEET)" />
+                <marker date="1511948356966" expanded="true" signature="1829:1864" ph=" SELECT statement (MUSICSHEET)" />
+                <marker date="1511948356966" expanded="true" signature="2788:2830" ph=" SELECT statement (MUSICSHEET)" />
+                <marker date="1511948356966" expanded="true" signature="3756:3793" ph=" SELECT statement (MUSICSHEET)" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/sqlite/DatabaseUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <folding>
+                <marker date="1511949215544" expanded="true" signature="956:978" ph=" CREATE statement" />
+                <marker date="1511949215544" expanded="true" signature="1297:1324" ph=" CREATE statement" />
+                <marker date="1511949215544" expanded="true" signature="1720:1753" ph=" CREATE statement" />
+                <marker date="1511949215544" expanded="true" signature="1894:1911" ph=" UPDATE statement (CASCADE)" />
+                <marker date="1511949215544" expanded="true" signature="1912:1926" ph=" DELETE statement (CASCADE)" />
+                <marker date="1511949215544" expanded="true" signature="2010:2027" ph=" UPDATE statement (CASCADE)" />
+                <marker date="1511949215544" expanded="true" signature="2028:2042" ph=" DELETE statement (CASCADE)" />
+                <marker date="1511949215544" expanded="true" signature="2100:2120" ph=" SELECT statement (MUSIC)" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/dao/MusicDao.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/dao/MusicSheetDao.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/data/MusicSheetToMusic.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/dao/MusicSheetToMusicDao.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/Httpconnection/HttpClientTest.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/Httpconnection/HttpPostWithJSON.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/out/production/MusicPlayer/Service.class" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/data/Music.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/data/MusicSheet.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/aa.db" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/soundmaker/WavePlayer.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/Httpconnection/DownloadMusic.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/soundmaker/MP3Player.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/Httpconnection/MusicSheetUploader.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/Httpconnection/GetMusicSheet.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/service/MusicService.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/dao/sokect/DownloadResource.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/dao/sokect/MusicSheetAndFilesUploader.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/service/MusicPlayerService.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/dao/TablesBase.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/dao/MusicSheetToMusicDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/dao/MusicsSheetDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/service/MusicSheetService.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/dao/JdbcUtil.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/sqlite/JdbcUtil.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/lib/sqlite-jdbc-3.20.1.jar!/org/sqlite/core/DB.class" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/sqlite/init.sql" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/sqlite/db-config.properties" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/dao/MusicDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/dao/MusicSheetDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/dao/MusicSteetToMusicDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/sokect/DownloadResource.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/service/SokectService.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/sqlite/DatabaseUtil.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/sokect/MusicSheetAndFilesUploader.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/sqlite/MusicPlayerTest.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/Httpconnection/MusicSheetAndFilesUploader.java" />
+        <option value="$PROJECT_DIR$/../MusicPlayer/src/Service.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="13" />
+    <option name="y" value="5" />
+    <option name="width" value="1340" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MusicPlayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicPlayer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicPlayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicPlayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicPlayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicPlayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Httpconnection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicPlayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicPlayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sokect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicPlayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicPlayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/musicplayer-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../MusicPlayer" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MusicPlayer\src\Httpconnection" />
+      <recent name="D:\MusicPlayer\src\sqlite" />
+      <recent name="D:\MusicPlayer\src" />
+      <recent name="D:\MusicPlayer\src\dao" />
+      <recent name="D:\MusicPlayer\src\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Service">
+    <configuration name="DatabaseUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sqlite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sqlite.DatabaseUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MusicPlayer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MusicPlayer" />
+      <envs />
+    </configuration>
+    <configuration name="GetMusicSheet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Httpconnection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Httpconnection.GetMusicSheet" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MusicPlayer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MusicPlayer" />
+      <envs />
+    </configuration>
+    <configuration name="JdbcUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sqlite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sqlite.JdbcUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MusicPlayer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MusicPlayer" />
+      <envs />
+    </configuration>
+    <configuration name="MusicPlayerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sqlite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sqlite.MusicPlayerTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MusicPlayer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MusicPlayer" />
+      <envs />
+    </configuration>
+    <configuration name="Service" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Service" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MusicPlayer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MusicPlayer" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MusicPlayer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.GetMusicSheet" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Service" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DatabaseUtil" />
+      <item index="3" class="java.lang.String" itemvalue="Application.JdbcUtil" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MusicPlayerTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Service" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MusicPlayerTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DatabaseUtil" />
+        <item index="3" class="java.lang.String" itemvalue="Application.JdbcUtil" />
+        <item index="4" class="java.lang.String" itemvalue="Application.GetMusicSheet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0621860-8be0-4a3d-b24b-c6ccd405d941" name="Default" comment="" />
+      <created>1511590782716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511590782716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3548896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24338235" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.304" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../MusicPlayer/src/service/MusicSheetService.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../MusicPlayer/src/sokect/MusicSheetAndFilesUploader.java</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://H:/lib/sqlite-jdbc-3.20.1.jar!/org/sqlite/jdbc4/JDBC4Connection.class" />
+    <entry file="jar://H:/lib/sqlite-jdbc-3.20.1.jar!/org/sqlite/jdbc3/JDBC3Connection.class" />
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/sqlite/musicserver_2017-11-17.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="89" column="88" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="89" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://H:/lib/sqlite-jdbc-3.20.1.jar!/org/sqlite/jdbc3/JDBC3Statement.class" />
+    <entry file="jar://H:/lib/sqlite-jdbc-3.20.1.jar!/org/sqlite/core/NativeDB.class" />
+    <entry file="jar://H:/lib/sqlite-jdbc-3.20.1.jar!/org/sqlite/core/DB.class" />
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/soundmaker/WaveFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/soundmaker/DrawPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/data/MusicSheetToMusic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/soundmaker/MP3Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/soundmaker/WaveFileDrawDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="54" lean-forward="false" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/sokect/server.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/sokect/DownloadResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1520">
+          <caret line="44" column="38" lean-forward="false" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/sokect/MusicSheetAndFilesUploader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="218" column="12" lean-forward="false" selection-start-line="218" selection-start-column="12" selection-end-line="218" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/sokect/server.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/soundmaker/WavePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/TablesBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/MusicSheetToMusicDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/MusicSheetToMusicDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/MusicsSheetDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="171" column="0" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="171" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/data/Music.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/Httpconnection/DownloadMusic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-730">
+          <caret line="18" column="116" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/Httpconnection/GetMusicSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-407">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/Httpconnection/MusicSheetUploader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/service/MusicPlayerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../MusicPlayer/lib/sqlite-jdbc-3.20.1.jar!/org/sqlite/core/DB.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="373" column="0" lean-forward="false" selection-start-line="373" selection-start-column="0" selection-end-line="373" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/MusicPlayer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2375">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/sqlite/neteasy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/neteasy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/neteasy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/sqlite/db-config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/aa.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="4095" lean-forward="true" selection-start-line="9" selection-start-column="4095" selection-end-line="9" selection-end-column="4095" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/service/MusicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/JdbcUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-993">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/MusicSteetToMusicDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="133" column="36" lean-forward="true" selection-start-line="133" selection-start-column="36" selection-end-line="133" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2379#2398#0" expanded="true" />
+            <marker date="1511948357013" expanded="true" signature="546:591" ph=" INSERT statement (MUSICSHEET_MUSIC)" />
+            <marker date="1511948357013" expanded="true" signature="1164:1203" ph=" DELETE statement (MUSICSHEET_MUSIC)" />
+            <marker date="1511948357013" expanded="true" signature="1696:1737" ph=" SELECT statement (MUSICSHEET_MUSIC)" />
+            <marker date="1511948357013" expanded="true" signature="2526:2577" ph=" SELECT statement (MUSICSHEET_MUSIC)" />
+            <marker date="1511948357013" expanded="true" signature="3323:3389" ph=" SELECT statement (MUSICSHEET_MUSIC)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/MusicSheetDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/sqlite/init.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="23" column="2" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="23" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/sokect/DownloadResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="112" column="55" lean-forward="true" selection-start-line="112" selection-start-column="55" selection-end-line="112" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1060#1072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/data/MusicPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/sqlite/MusicPlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/sqlite/JdbcUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="84" />
+          <folding>
+            <marker date="1511946403492" expanded="true" signature="804:823" ph=" SELECT statement (MUSIC)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/sqlite/DatabaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <marker date="1511949215544" expanded="true" signature="956:978" ph=" CREATE statement" />
+            <marker date="1511949215544" expanded="true" signature="1297:1324" ph=" CREATE statement" />
+            <marker date="1511949215544" expanded="true" signature="1720:1753" ph=" CREATE statement" />
+            <marker date="1511949215544" expanded="true" signature="1894:1911" ph=" UPDATE statement (CASCADE)" />
+            <marker date="1511949215544" expanded="true" signature="1912:1926" ph=" DELETE statement (CASCADE)" />
+            <marker date="1511949215544" expanded="true" signature="2010:2027" ph=" UPDATE statement (CASCADE)" />
+            <marker date="1511949215544" expanded="true" signature="2028:2042" ph=" DELETE statement (CASCADE)" />
+            <marker date="1511949215544" expanded="true" signature="2100:2120" ph=" SELECT statement (MUSIC)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/MusicSheetDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding>
+            <element signature="e#2649#2661#0" expanded="true" />
+            <marker date="1511948356966" expanded="true" signature="511:558" ph=" INSERT statement (MUSICSHEET)" />
+            <marker date="1511948356966" expanded="true" signature="1317:1350" ph=" DELETE statement (MUSICSHEET)" />
+            <marker date="1511948356966" expanded="true" signature="1829:1864" ph=" SELECT statement (MUSICSHEET)" />
+            <marker date="1511948356966" expanded="true" signature="2788:2830" ph=" SELECT statement (MUSICSHEET)" />
+            <marker date="1511948356966" expanded="true" signature="3756:3793" ph=" SELECT statement (MUSICSHEET)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/Httpconnection/MusicSheetAndFilesUploader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="218" column="22" lean-forward="false" selection-start-line="218" selection-start-column="22" selection-end-line="218" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/MusicDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/dao/MusicDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1511948356933" expanded="true" signature="424:462" ph=" INSERT statement (MUSIC)" />
+            <marker date="1511948356933" expanded="true" signature="1120:1148" ph=" DELETE statement (MUSIC)" />
+            <marker date="1511948356933" expanded="true" signature="1618:1648" ph=" SELECT statement (MUSIC)" />
+            <marker date="1511948356933" expanded="true" signature="2356:2392" ph=" SELECT statement (MUSIC)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/data/MusicSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding>
+            <element signature="e#1393#1394#0" expanded="true" />
+            <element signature="e#1416#1417#0" expanded="true" />
+            <element signature="e#1511#1512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/service/MusicSheetService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#1114#1121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/sokect/MusicSheetAndFilesUploader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5151#5167#0" expanded="true" />
+            <element signature="e#5581#5597#0" expanded="true" />
+            <element signature="e#5711#5727#0" expanded="true" />
+            <element signature="e#6674#6682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/service/SokectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#607#614#0" expanded="true" />
+            <element signature="e#2229#2241#0" expanded="true" />
+            <element signature="e#2344#2356#0" expanded="true" />
+            <element signature="e#2750#2765#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicPlayer/src/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="74" column="10" lean-forward="false" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MusicPlayer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
